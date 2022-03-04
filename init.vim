@@ -9,7 +9,7 @@ set cursorline
 set encoding=utf-8
 set showmatch
 set termguicolors
-set sw=2
+set sw=4
 set relativenumber
 
 call plug#begin('~/.vim/plugged')
