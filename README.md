@@ -1,5 +1,5 @@
 # nvim-cnf
-## Archivo unico de configuración de nvim con configuraciones básicas, plugins y shortcuts.
+### Archivo unico de configuración de nvim con configuraciones básicas, plugins y shortcuts.
 El pull del proyecto debe estar ubicado en ~/.config/nvim
 
 ### Instalar NODEJS:
