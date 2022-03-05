@@ -62,6 +62,8 @@ Plug 'tpope/vim-repeat'
 call plug#end()
 
 colorscheme gruvbox
+let g:gruvbox_transparent_bg = 1
+hi Normal guibg=NONE ctermbg=NONE
 let g:gruvbox_contrast_dark = "hard"
 highlight Normal ctermbg=NONE
 set laststatus=2
