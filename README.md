@@ -22,6 +22,7 @@ sudo apt -y install nodejs
 ### Comandos
 Los siguiente comandos son activados en el modo NORMAL al presionar la tecla `<SPACE>`:
 | Comando | Descripcion |
+| --- | --- |
 | `n t` | Abre el explorador de archivos |
 | `w` | Guarda los cambios en el archivo |
 | `q` | Cierra el archivo |
