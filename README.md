@@ -18,3 +18,10 @@ sudo apt -y install nodejs
 - Al abrir teclear "<space> o b", pedira instalar un complemento, ecribir y y <enter>
 - Volver a cerrar con ":q"
 - Disfrutar!
+
+### Comandos
+Los siguiente comandos son activados en el modo NORMAL al presionar la tecla `<SPACE>`:
+| Comando | Descripcion |
+| `n t` | Abre el explorador de archivos |
+| `w` | Guarda los cambios en el archivo |
+| `q` | Cierra el archivo |
