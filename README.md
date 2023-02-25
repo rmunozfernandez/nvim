@@ -1,12 +1,12 @@
 # nvim-cnf
-###Instanlar Neovim
+### Instanlar Neovim
 ```
 sudo add-apt-repository ppa:neovim-ppa/stable
 sudo apt update
 sudo apt install neovim
 ```
-##Instalar vim-plug
-vim-pug(https://github.com/junegunn/vim-plug)
+### Instalar vim-plug
+[vim-pug](https://github.com/junegunn/vim-plug)
 
 ### Archivo unico de configuración de nvim con configuraciones básicas, plugins y shortcuts.
 El pull del proyecto debe estar ubicado en ~/.config/nvim
