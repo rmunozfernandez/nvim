@@ -24,7 +24,7 @@ sudo apt -y install nodejs
 ### Instalar Plugins
 - Al abrir el archivo se debe ejecutar :PlugInstall 
 - Cerrar con ":q"
-- Al abrir teclear "<space> o b", pedira instalar un complemento, ecribir y y <enter>
+- Al abrir teclear "<space> o b", pedira instalar un complemento, escribir y y <enter>
 - Volver a cerrar con ":q"
 - Disfrutar!
 
